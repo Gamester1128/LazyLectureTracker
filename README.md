@@ -1,0 +1,2 @@
+# LazyLectureTracker
+tracks lectures
